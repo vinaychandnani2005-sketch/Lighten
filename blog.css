@@ -1,0 +1,698 @@
+.main{
+    height: 2300px;
+    width: 100%;
+    background-color:white;
+}
+
+.header{
+    height: 180px;
+    width: 100%;
+    border: none;
+    background-color:white;
+}
+
+.upper1{
+    height:50px;
+    width: 100%;
+    border:none;
+    background-color: #ffc221;
+    border-top-left-radius:12px;
+}
+.margin1{
+    height: 50px;
+    width: 15%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+    border-top-left-radius: 12px;
+}
+
+.main1{
+    height: 50px;
+    width: 70%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.social_icon{
+    height: 50px;
+    width: 25%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.face{
+    height: 50px;
+    width: 25%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.twitter{
+    height: 50px;
+    width: 25%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.insta{
+    height: 50px;
+    width: 25%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.in{
+    height: 50px;
+    width: 25%;
+    border: nones;
+    background-color: #ffc221;
+    float: right;
+}
+.world{
+    margin-top: -15px;
+}
+
+
+.margin_1{
+    height: 50px;
+    width: 43%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+.para1{
+    height: 50px;
+    width: 32%;
+    border: none;
+    background-color: #ffc221;
+    float: right;
+    text-align: center;
+}
+
+.margin2{
+    height: 50px;
+    width: 15%;
+    border: none;
+    background-color: #ffc221;
+    float: right;  
+}
+
+.lower1{
+    height: 130px;
+    width: 100%;
+    border: none;
+    background-color: #ffc221;
+}
+
+.margin3{
+    height: 130px;
+    width: 15%;
+    border: none;
+    background-color: white;
+    float: left;
+}
+
+.main2{
+    height: 130px;
+    width: 70%;
+    border: none;
+    background-color: white;
+    float: left;
+}
+
+.icon{
+    height: 130px;
+    width: 25%;
+    border: none;
+    background-color: white;
+    float: left;
+}
+.hello{
+    margin-top: 25px;
+    margin-left: -80px;
+}
+
+.hi{
+    margin-top: 5px;
+}
+
+.upper2{
+    height:40px;
+    width: 100%;
+    border:none;
+    background-color: white;
+}
+
+.middle1{
+    height: 46px;
+    width: 100%;
+    border:none;
+    background-color: white;
+}
+
+.home{
+    height: 46px;
+    width: 9%;
+    border: none;
+    background-color: white;
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+    text-transform: capitalize;
+    color: black;
+}
+
+.home:hover{
+    color: #ffc221;
+}
+
+.login{
+    background-color: white;
+    border: none;
+    float: right;
+    height: 46px;
+    width: 11%;
+    margin-top: -7px;
+}
+
+.login1{
+    background-color: #ffc221;
+    border: none;
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.login2{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: medium;
+    text-align: center;
+    color: black;
+}
+
+.login2:hover{
+    color: white;
+}
+
+
+.margin4{
+    height: 130px;
+    width: 15%;
+    border: none;
+    background-color: white;
+    float: right;
+}.demo{
+    height: 2000px;
+    width: 100%;
+    background-color:white;
+}
+
+.header{
+    height: 180px;
+    width: 100%;
+    border: none;
+    background-color:white;
+}
+
+.upper1{
+    height:50px;
+    width: 100%;
+    border:none;
+    background-color: #ffc221;
+    border-top-left-radius:12px;
+}
+.margin1{
+    height: 50px;
+    width: 15%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+    border-top-left-radius: 12px;
+}
+
+.main1{
+    height: 50px;
+    width: 70%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.social_icon{
+    height: 50px;
+    width: 25%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.face{
+    height: 50px;
+    width: 25%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.twitter{
+    height: 50px;
+    width: 25%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.insta{
+    height: 50px;
+    width: 25%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+
+.in{
+    height: 50px;
+    width: 25%;
+    border: nones;
+    background-color: #ffc221;
+    float: right;
+}
+
+.margin_1{
+    height: 50px;
+    width: 43%;
+    border: none;
+    background-color: #ffc221;
+    float: left;
+}
+.para1{
+    height: 50px;
+    width: 32%;
+    border: none;
+    background-color: #ffc221;
+    float: right;
+    text-align: center;
+}
+
+.margin2{
+    height: 50px;
+    width: 15%;
+    border: none;
+    background-color: #ffc221;
+    float: right;  
+}
+
+.lower1{
+    height: 130px;
+    width: 100%;
+    border: none;
+    background-color: #ffc221;
+}
+
+.margin3{
+    height: 130px;
+    width: 15%;
+    border: none;
+    background-color: white;
+    float: left;
+}
+
+.main2{
+    height: 130px;
+    width: 70%;
+    border: none;
+    background-color: white;
+    float: left;
+}
+
+.icon{
+    height: 130px;
+    width: 25%;
+    border: none;
+    background-color: white;
+    float: left;
+}
+
+.upper2{
+    height:40px;
+    width: 100%;
+    border:none;
+    background-color: white;
+}
+
+.middle1{
+    height: 46px;
+    width: 100%;
+    border:none;
+    background-color: white;
+}
+
+.home{
+    height: 46px;
+    width: 9%;
+    border: none;
+    background-color: white;
+    float: left;
+    text-decoration: none;
+    text-align: center;
+    font-size: large;
+    text-transform: capitalize;
+    color: black;
+}
+
+.home:hover{
+    color: #ffc221;
+}
+
+.login{
+    background-color: white;
+    border: none;
+    float: right;
+    height: 46px;
+    width: 11%;
+}
+
+.login1{
+    background-color: #ffc221;
+    border: none;
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.login2{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: medium;
+    text-align: center;
+    color: black;
+}
+
+.login2:hover{
+    color: white;
+}
+
+
+.margin4{
+    height: 130px;
+    width: 15%;
+    border: none;
+    background-color: white;
+    float: right;
+}
+
+.content{
+    height: 1620px;
+    width: 100%;
+    background-color: aqua;
+}
+.upper10{
+    height: 210px;
+    width: 100%;
+    background-color: #ffc221;
+    border: 0.1px solid white;
+}
+
+.contact{
+    height: 100px;
+    width: 40%;
+    background-color: #ffc221;
+    border: 0.1px solid #ffc221;
+    margin-top: 60px;
+    margin-left: 30%;
+}
+.text10{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    font-weight: bolder;   
+}
+
+.margin5{
+    height: 200px;
+    width: 100%;
+   background-color:white;
+}
+.block{
+    display: block;
+    height: 80px;
+    width: 50%;
+    border:none;
+    margin-left: 25%;
+    padding-top: 60px;
+}
+.text13{
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 120px;
+}
+
+.blog1{
+    height: 1210px;
+    width: 100%;
+    background-color: white;               
+}
+
+.margin14{
+    height: 1210px;
+    width: 12%;
+    background-color: white;
+    float: left;
+}
+
+.center1{
+    height: 1210px;
+    width: 76%;
+    background-color: white;
+    float: left;
+}
+.block1{
+    height: 605px;
+    width: 100%;
+    background-color: white;
+    border: none;
+}
+
+.block2{
+    height: 605px;
+    width: 100%;
+    background-color: white;
+    border: none;
+}
+
+.left7{
+    height: 555px;
+    width: 30%;
+    float: left;
+    background-color: white;
+    border: none;
+    margin-top: 0px;
+    box-shadow:5px 5px 5px rgb(147, 141, 141);
+}
+.text17{
+    text-align: left;
+    font-size: x-large;
+    font-weight: 550;
+    padding-top: 10px;
+}
+.text20{
+    padding-left: 24px;
+    font-size: large;  
+}
+
+
+.left8{
+    height: 555px;
+    width: 30%;
+    float: left;
+    background-color: white;
+    border: none;
+    margin-left: 3%;
+    margin-top: 0px;
+    box-shadow:5px 5px 5px rgb(147, 141, 141);
+}
+
+.right7{
+    height: 555px;
+    width: 30%;
+    float: right;
+    background-color: white;
+    border:none;
+    margin-right: 3.5%;
+    margin-top: 0px;
+     box-shadow:5px 5px 5px rgb(147, 141, 141);
+}
+
+.margin15{
+    height: 1210px;
+    width: 12%;
+    background-color: white;
+    float: right;
+}
+
+
+.footer{
+    height: 500px;
+    width: 100%;
+    background-color: orange;
+}
+
+.margin9{
+    height: 500px;
+    width: 15%;
+    background-color: aqua;
+    float: left;
+}
+
+.middle9{
+    height: 500px;
+    width: 70%;
+    background-color:black;
+    float: left;
+}
+
+.margin11{
+    height: 80px;
+    width: 100%;
+    background-color: black;
+}
+
+.main5{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+
+.left6{
+    height: 50px;
+    width: 35%;
+    background-color:black;
+    float: left;
+}
+.middle10{
+    height: 50px;
+    width:30%;
+    background-color:black;
+    float: left;
+}
+.facebook{
+    height: 50px;
+    width: 25%;
+    background-color:black;
+    float: left;
+    border: none;
+}
+.instta{
+    height: 50px;
+    width: 25%;
+    background-color: black;
+    float: right;
+    border: none;
+}
+.text17{
+    margin-left: 25px;
+    margin-top: 7.5px;
+}
+.right6{
+    height: 50px;
+    width: 35%;
+    background-color: black;
+    float: right;
+}
+
+.main_contact{
+    height: 370px;
+    width: 100%;
+    background-color: black;
+}
+
+.contact1{
+    height: 318px;
+    width: 25%;
+    border: none;
+    background-color: black;
+    float: left;
+}
+
+.text21{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: white;
+}
+.text22{
+    margin-top: 0px;
+    font-size: larger;
+    margin-left: 10%;
+    color: white;
+}
+.text23{
+    margin-top: 0px;
+    font-size: larger;
+    margin-left: 10%;
+    line-height: 0px;
+    text-decoration: none;
+    color: white;
+}
+.text23:hover{
+    color: #ffc221;
+}
+.contact2{
+    height: 318px;
+    width: 25%;
+    border:none;
+    background-color:black;
+    float: right;
+}
+
+.main_footer{
+    height: 50px;
+    width: 100%;
+    background-color:black;
+    background-color: #ffc221;
+}
+
+.text18{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 0px;
+    color: black;
+}
+
+.text19{
+    text-decoration: none;
+    color:black;
+}
+.text19:hover{
+    color: white;
+}
+
+.margin10{
+    height: 500px;
+    width: 15%;
+    background-color: black;
+    float: right;
+}
+.top{
+    height: 450px;
+    width: 100%;
+    border: none;
+    background-color:black;
+}
+
+.bottom{
+    height: 50px;
+    width: 100%;
+    background-color: #ffc221;
+}
